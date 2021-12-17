@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/haarcascade_frontalface_default.xml</file>
+        <file>qrc/next.png</file>
+        <file>qrc/prev.png</file>
+        <file>qrc/start.png</file>
+        <file>qrc/stop.png</file>
+    </qresource>
+</RCC>
